@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "secret.app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for secret.app.jwtSecret."
+    },
+    {
+      "name": "secret.app.durationInMs",
+      "type": "java.lang.Integer",
+      "description": "Description for secret.app.durationInMs."
+    }
+  ] }

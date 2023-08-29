@@ -1,0 +1,2 @@
+ALTER TABLE IF EXISTS public."users"
+ALTER COLUMN password TYPE VARCHAR (60);
